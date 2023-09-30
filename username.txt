@@ -1,5 +1,2 @@
-{
-  "message": "Token generated successfully",
-  "status_code": 200,
-  "token": "dczoUjw2bLDfxrYE8BBX9UH48L2QlnI3"
-}
+riyadvali
+"dczoUjw2bLDfxrYE8BBX9UH48L2QlnI3"
